@@ -1,0 +1,19 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/admin/login/page": "/admin/login",
+  "/admin/page": "/admin",
+  "/api/admin/settings/route": "/api/admin/settings",
+  "/api/admin/stats/route": "/api/admin/stats",
+  "/api/auth/[...nextauth]/route": "/api/auth/[...nextauth]",
+  "/api/checkout/stripe/route": "/api/checkout/stripe",
+  "/api/settings/route": "/api/settings",
+  "/api/stats/route": "/api/stats",
+  "/campaigns/[id]/page": "/campaigns/[id]",
+  "/campaigns/page": "/campaigns",
+  "/favicon.ico/route": "/favicon.ico",
+  "/page": "/",
+  "/refunds/page": "/refunds",
+  "/terms/page": "/terms",
+  "/transparency/page": "/transparency"
+}
